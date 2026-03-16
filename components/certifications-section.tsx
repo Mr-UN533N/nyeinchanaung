@@ -12,7 +12,7 @@ const certifications = [
     fullName: "Junior Web Security Certified",
     issuer: "Creatigon",
     year: "2023",
-    image: "https://raw.githubusercontent.com/Mr-UN533N/nyeinchanaung/refs/heads/main/certi1.jpg",
+    image: "https://raw.githubusercontent.com/Mr-UN533N/nyeinchanaung/refs/heads/main/certi1.png",
     description: "Hands-on Web penetration testing certification demonstrating ability to compromise systems in a controlled environment.",
   },
 
