@@ -19,7 +19,7 @@ export function Footer() {
           <div className="space-y-4">
             <Link href="#home" className="flex items-center gap-2">
               <Shield className="h-6 w-6 text-primary" />
-              <span className="font-semibold text-foreground">Alex Chen</span>
+              <span className="font-semibold text-foreground">mr_unseen</span>
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Independent security researcher dedicated to making the internet safer 
@@ -48,7 +48,7 @@ export function Footer() {
             <h4 className="font-semibold text-foreground mb-4">Connect</h4>
             <div className="flex items-center gap-4">
               <Link
-                href="https://github.com"
+                href="https://github.com/Mr-UN533N"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -57,7 +57,7 @@ export function Footer() {
                 <Github className="h-5 w-5" />
               </Link>
               <Link
-                href="https://twitter.com"
+                href="https://x.com/mr_un533n"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -66,7 +66,7 @@ export function Footer() {
                 <Twitter className="h-5 w-5" />
               </Link>
               <Link
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/gefo-amd-977b761aa"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -80,7 +80,7 @@ export function Footer() {
 
         <div className="mt-12 pt-8 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            {new Date().getFullYear()} Alex Chen. All rights reserved.
+            {new Date().getFullYear()} MR_UNSEEN. All rights reserved.
           </p>
           <div className="flex items-center gap-6 text-sm text-muted-foreground">
             <Link href="#" className="hover:text-foreground transition-colors">
