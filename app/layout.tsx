@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Alex Chen | Security Researcher & Bug Bounty Hunter',
+  title: 'Mr_UNSEEN | Security Researcher & Bug Bounty Hunter',
   description: 'Independent security researcher specializing in web application security, bug bounty hunting, and vulnerability research.',
   generator: 'v0.app',
   icons: {
