@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${writeup.title} | Alex Chen Security Research`,
+    title: `${writeup.title} | Mr_UNSEEN Security Researcher`,
     description: writeup.excerpt,
   }
 }
