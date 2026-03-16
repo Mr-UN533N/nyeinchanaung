@@ -108,7 +108,7 @@ export function ContactSection() {
               </h3>
               <div className="space-y-4">
                 <Link
-                  href="mailto:alex@securityresearch.com"
+                  href="mailto:kodarkweb@gmail.com"
                   className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors group"
                 >
                   <div className="h-12 w-12 rounded-full bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
@@ -116,7 +116,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">Email</p>
-                    <p className="text-sm">alex@securityresearch.com</p>
+                    <p className="text-sm">kodarkweb@gmail.com</p>
                   </div>
                 </Link>
                 <Link
@@ -130,7 +130,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">Twitter / X</p>
-                    <p className="text-sm">@alexsecurity</p>
+                    <p className="text-sm">@mr_un533n</p>
                   </div>
                 </Link>
                 <Link
@@ -144,7 +144,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">LinkedIn</p>
-                    <p className="text-sm">Alex Chen</p>
+                    <p className="text-sm">mr_un533n</p>
                   </div>
                 </Link>
                 <Link
@@ -158,7 +158,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">GitHub</p>
-                    <p className="text-sm">@alexsecurity</p>
+                    <p className="text-sm">@Mr-UN533N</p>
                   </div>
                 </Link>
               </div>
