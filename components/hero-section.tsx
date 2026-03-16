@@ -21,7 +21,7 @@ export function HeroSection() {
                 Security Researcher
               </p>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-tight text-balance">
-                Alex Chen
+                Mr_UN533N
               </h1>
               <p className="text-xl sm:text-2xl text-muted-foreground font-light">
                 Bug Bounty Hunter & Security Researcher
@@ -88,7 +88,7 @@ export function HeroSection() {
               <div className="relative w-80 h-80 rounded-3xl overflow-hidden border-2 border-border bg-card shadow-2xl">
                 <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-accent/10" />
                 <img
-                  src="https://nyeinchanaung-steel.vercel.app/header.jpg"
+                  src="https://github.com/Mr-UN533N/nyeinchanaung/blob/main/header.jpg?raw=true"
                   alt="Alex Chen - Security Researcher"
                   className="w-full h-full object-cover"
                 />
