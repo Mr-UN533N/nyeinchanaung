@@ -61,7 +61,7 @@ export function ContactSection() {
                   <Input
                     id="email"
                     type="email"
-                    placeholder="you@example.com"
+                    placeholder="kodarwkeb@gmail.com"
                     value={formData.email}
                     onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                     required
@@ -120,7 +120,7 @@ export function ContactSection() {
                   </div>
                 </Link>
                 <Link
-                  href="https://twitter.com"
+                  href="https://x.com/mr_un533n"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors group"
@@ -134,7 +134,7 @@ export function ContactSection() {
                   </div>
                 </Link>
                 <Link
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/gefo-amd-977b761aa/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors group"
@@ -144,11 +144,11 @@ export function ContactSection() {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">LinkedIn</p>
-                    <p className="text-sm">mr_un533n</p>
+                    <p className="text-sm">gefo-amd-977b761aa/</p>
                   </div>
                 </Link>
                 <Link
-                  href="https://github.com"
+                  href="https://github.com/Mr-UN533N"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors group"
